@@ -1,6 +1,7 @@
 backend:
-  name: gilbertlucas46
+  name: github
   branch: master
+  repo: gilbertlucas46/artisan-static
   squash_merges: true
 publish_mode: editorial_workflow
 media_folder: images # required but unused, host images externally
