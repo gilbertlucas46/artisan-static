@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: gilbertlucas46
   branch: master
   squash_merges: true
 publish_mode: editorial_workflow
